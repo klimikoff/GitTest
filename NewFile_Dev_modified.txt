@@ -1,0 +1,4 @@
+New File on DEV
+Added locally second line
+Third line in local copy of the file
+Forth line copied
